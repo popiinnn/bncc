@@ -1,0 +1,6 @@
+WF-3331,Radhya,Laki-Laki,Manager,800000
+PM-1123,Sebastian,Laki-Laki,Manager,8000000
+MT-2011,Dodi,Laki-Laki,Manager,8000000
+YP-0211,Dido,Laki-Laki,Manager,8000000
+VR-1222,David,Laki-Laki,Manager
+
